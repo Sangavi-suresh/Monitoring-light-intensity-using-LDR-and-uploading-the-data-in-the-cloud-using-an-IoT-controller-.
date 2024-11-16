@@ -1,13 +1,9 @@
-### NAME : Sangavi Suresh
-### REG NO : 212222230130
-
 # EXPERIMENT 4 Monitoring light intensity using LDR and uploading the data in the cloud using an IoT controller
 
 # AIM:
 To monitor and upload the light intensity value in the Things mate using Arduino controller.
 
-# Apparatus required:
-Arduino Controller  </br>
+# Apparatus required:Arduino Controller  </br/\
 Indoor gateway</br>
 LoRaWAN shield </br>
 LDR </br>
@@ -264,9 +260,3 @@ ldr_value:1dr1
 # RESULT:
 
 Thus the light intensity value is uploaded in the Things mate using Arduino controller.
-
-# OUTPUT:
-
-# RESULT:
-
-Thus the light intensity valve is uploaded in the Things mate using Arduino controller.
